@@ -11,7 +11,7 @@ export default class footer extends Component {
     render() {
       return (
         <div>
-          SomX Labs &copy; 2019
+          <p>SomX Labs &copy; 2019</p>
         </div>
       );
     }

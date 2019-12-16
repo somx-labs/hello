@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 import { Alignment, Classes, Button, Navbar, NavbarDivider, NavbarHeading, NavbarGroup } from '@blueprintjs/core';
 
-import xlogo from '../../static/images/x.png';
+import xlogo from '../../static/images/x_logo.svg';
 // import somxlogo from '../../static/images/somx_logo.png';
 
 // import { connect } from "react-redux";
